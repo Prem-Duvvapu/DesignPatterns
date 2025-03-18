@@ -1,3 +1,5 @@
+package HandleNullObjectDesignPattern;
+
 public class Main {
     public static void main(String[] args) {
         Vehicle vehicle=VehicleFactory.getVehicleObject("Bike");

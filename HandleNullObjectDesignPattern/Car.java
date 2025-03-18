@@ -1,4 +1,6 @@
-public class Car implements  Vehicle{
+package HandleNullObjectDesignPattern;
+
+public class Car implements Vehicle{
     public int getFuelTankCapacity() {
         return 40;
     }

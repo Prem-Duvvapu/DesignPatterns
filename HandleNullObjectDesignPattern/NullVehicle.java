@@ -1,3 +1,5 @@
+package HandleNullObjectDesignPattern;
+
 public class NullVehicle implements Vehicle {
     public int getFuelTankCapacity() {
         return 0;
